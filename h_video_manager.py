@@ -1,0 +1,2 @@
+class HVideoManager:
+    pass
